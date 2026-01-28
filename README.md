@@ -4,6 +4,7 @@ Este é um projeto simples de um jogo interativo desenvolvido com HTML, CSS e Ja
 📸 Preview
 <img width="1908" height="1080" alt="{96F3ABA3-C8D6-40E7-AE3B-2103E1CEF569}" src="https://github.com/user-attachments/assets/c3c02769-71ce-4b83-8323-59e1996c6cfa" />
 
+aceese  https://martinsantosdev.github.io/game-numero-secreto/
 
 
 🚀 Funcionalidades
